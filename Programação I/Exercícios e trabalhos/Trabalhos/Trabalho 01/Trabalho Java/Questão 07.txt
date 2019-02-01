@@ -1,0 +1,9 @@
+Respostas Questão 07
+
+a) Segunda string e Terceira string.
+b) O resultado é igual a da questão A. O fluxo é que: O programa primeiro verifica
+se a variável "umNumero" é maior ou igual a 0. Depois é feito a verificação se
+a variável é igual a 0. Se essa condição for verdadeira, ele mostrará na tela: Primeira String.
+Caso contrário, aparecerá Segunda string e Terceira string.
+
+Questão C e D estão no projeto.

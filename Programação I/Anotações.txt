@@ -1,0 +1,9 @@
+Aritiméticos: Quando ocorre algum cálculo matemático;
+Relacionais: Quando envolve comparações;
+
+& E
+|| ou
+! Negação
+
+vetor.length pega o vetor inteiro.
+Objeto é uma instância de uma classe.

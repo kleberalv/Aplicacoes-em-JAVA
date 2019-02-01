@@ -1,0 +1,23 @@
+Uma pesquisa sobre algumas características físicas da população de uma determinada região coletou os seguintes dados, referentes a cada habitante, para serem analisados:
+Nome da Pessoa;
+CPF da Pessoa;
+Sexo (masculino, feminino ou outros);
+Cor dos olhos (azuis, verdes, castanhos);
+Cor dos cabelos (louros, castanhos, pretos);
+Data de Nascimento;
+Estado;
+Cidade;
+
+Criar um programa visual (usando swing no java) na plataforma NetBeans que cadastre os habitantes e no final mostre um relatório informando:
+
+A porcentagem de indivíduos do sexo feminino cuja idade esteja entre 18 e 35 anos, inclusive, e que tenham olhos verdes e cabelos louros;
+A quantidade de pessoas do sexo Masculino;
+A quantidade de pessoas do sexo Feminino;
+A quantidade de pessoas do sexo Outros;
+TODOS os dados do habitante de menor idade;
+TODOS os dados do habitante de maior idade;
+
+DICA: 
+crie uma classe chamada pessoa;
+utilize vetores para armazenar cada pessoa cadastrada;
+depois utilize um laço de repetição para percorrer o array e fazer o relatório;

@@ -1,0 +1,41 @@
+	Revisão da prova
+
+*	Portabilidade do JAVA
+º	O que faz o java ser portavel? JVM.
+
+*	Java é "Case sensitive". Diferença de maiúsculas e minusculas.
+
+*	Comentarios.
+
+	//
+	/* */
+	/**
+	*
+	*
+	*/
+
+*	Variavel. Se a variavel possuir a palavra FINAL, o valor NÃO poderá ser alterada.
+
+*	Estruturas de repetições. While, do While, for.
+
+*	Passar os valores para outros tipos.
+	ex: n2=Integer.parseInr(n1);
+
+*	O que é objeto? é uma instância de uma classe.
+	Classe define um objeto.
+
+
+*	Variáveis de instância de classe é chamada de atributos.
+
+Questão para completar o método.
+
+
+
+
+
+
+
+
+
+
+
